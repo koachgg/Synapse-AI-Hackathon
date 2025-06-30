@@ -1,0 +1,780 @@
+{
+  "jobs": [
+    {
+      "job_id": "test-ml-engineer-rapidapi",
+      "timestamp": "2025-06-29T15:34:55.340451",
+      "candidates_found": 5,
+      "processing_time": 31.47498846054077,
+      "llm_provider": "gemini",
+      "api_status": {
+        "llm_api": true,
+        "rapidapi": true
+      },
+      "search_queries": [
+        "machine learning engineer",
+        "machine learning developer",
+        "ml engineer"
+      ],
+      "top_candidates": [
+        {
+          "rank": 1,
+          "name": "Alice Johnson",
+          "linkedin_url": "https://linkedin.com/in/alice-johnson",
+          "headline": "Senior ML Engineer at Google | AI Research",
+          "location": "San Francisco, CA",
+          "company": "Google",
+          "position": "Senior ML Engineer",
+          "fit_score": 8.22,
+          "score_breakdown": {
+            "education": 8.5,
+            "trajectory": 7.5,
+            "company": 8.0,
+            "skills": 8.5,
+            "location": 10,
+            "tenure": 7.0
+          },
+          "data_completeness": 0.7,
+          "api_enriched": true,
+          "api_source": "mock",
+          "outreach_message": "Hi [Name], I noticed your impressive experience with ML and LLMs. \n            Your background aligns perfectly with our ML Research role at Windsurf. \n            Would you be open to a brief conversation about this exciting opportunity?",
+          "personalization_score": 0.25
+        },
+        {
+          "rank": 2,
+          "name": "Bob Smith",
+          "linkedin_url": "https://linkedin.com/in/bob-smith",
+          "headline": "Senior ML Engineer at Microsoft | AI Research",
+          "location": "San Francisco, CA",
+          "company": "Microsoft",
+          "position": "Senior ML Engineer",
+          "fit_score": 8.22,
+          "score_breakdown": {
+            "education": 8.5,
+            "trajectory": 7.5,
+            "company": 8.0,
+            "skills": 8.5,
+            "location": 10,
+            "tenure": 7.0
+          },
+          "data_completeness": 0.7,
+          "api_enriched": true,
+          "api_source": "mock",
+          "outreach_message": "Hi [Name], I noticed your impressive experience with ML and LLMs. \n            Your background aligns perfectly with our ML Research role at Windsurf. \n            Would you be open to a brief conversation about this exciting opportunity?",
+          "personalization_score": 0.25
+        },
+        {
+          "rank": 3,
+          "name": "Carol Davis",
+          "linkedin_url": "https://linkedin.com/in/carol-davis",
+          "headline": "Senior ML Engineer at Apple | AI Research",
+          "location": "San Francisco, CA",
+          "company": "Apple",
+          "position": "Senior ML Engineer",
+          "fit_score": 8.22,
+          "score_breakdown": {
+            "education": 8.5,
+            "trajectory": 7.5,
+            "company": 8.0,
+            "skills": 8.5,
+            "location": 10,
+            "tenure": 7.0
+          },
+          "data_completeness": 0.7,
+          "api_enriched": true,
+          "api_source": "mock",
+          "outreach_message": "Hi [Name], I noticed your impressive experience with ML and LLMs. \n            Your background aligns perfectly with our ML Research role at Windsurf. \n            Would you be open to a brief conversation about this exciting opportunity?",
+          "personalization_score": 0.25
+        },
+        {
+          "rank": 4,
+          "name": "David Wilson",
+          "linkedin_url": "https://linkedin.com/in/david-wilson",
+          "headline": "Senior ML Engineer at Amazon | AI Research",
+          "location": "San Francisco, CA",
+          "company": "Amazon",
+          "position": "Senior ML Engineer",
+          "fit_score": 8.22,
+          "score_breakdown": {
+            "education": 8.5,
+            "trajectory": 7.5,
+            "company": 8.0,
+            "skills": 8.5,
+            "location": 10,
+            "tenure": 7.0
+          },
+          "data_completeness": 0.7,
+          "api_enriched": true,
+          "api_source": "mock",
+          "outreach_message": "Hi [Name], I noticed your impressive experience with ML and LLMs. \n            Your background aligns perfectly with our ML Research role at Windsurf. \n            Would you be open to a brief conversation about this exciting opportunity?",
+          "personalization_score": 0.25
+        },
+        {
+          "rank": 5,
+          "name": "Emma Brown",
+          "linkedin_url": "https://linkedin.com/in/emma-brown",
+          "headline": "Senior ML Engineer at Meta | AI Research",
+          "location": "San Francisco, CA",
+          "company": "Meta",
+          "position": "Senior ML Engineer",
+          "fit_score": 8.22,
+          "score_breakdown": {
+            "education": 8.5,
+            "trajectory": 7.5,
+            "company": 8.0,
+            "skills": 8.5,
+            "location": 10,
+            "tenure": 7.0
+          },
+          "data_completeness": 0.7,
+          "api_enriched": true,
+          "api_source": "mock",
+          "outreach_message": "Hi [Name], I noticed your impressive experience with ML and LLMs. \n            Your background aligns perfectly with our ML Research role at Windsurf. \n            Would you be open to a brief conversation about this exciting opportunity?",
+          "personalization_score": 0.25
+        }
+      ]
+    },
+    {
+      "job_id": "ml-research-windsurf-rapidapi",
+      "timestamp": "2025-06-29T15:36:33.314840",
+      "candidates_found": 5,
+      "processing_time": 21.578096628189087,
+      "llm_provider": "groq",
+      "api_status": {
+        "llm_api": true,
+        "rapidapi": true
+      },
+      "search_queries": [
+        "ml engineer",
+        "ml developer",
+        "llm engineer"
+      ],
+      "top_candidates": [
+        {
+          "rank": 1,
+          "name": "Alice Johnson",
+          "linkedin_url": "https://linkedin.com/in/alice-johnson",
+          "headline": "Senior ML Engineer at Google | AI Research",
+          "location": "San Francisco, CA",
+          "company": "Google",
+          "position": "Senior ML Engineer",
+          "fit_score": 8.22,
+          "score_breakdown": {
+            "education": 8.5,
+            "trajectory": 7.5,
+            "company": 8.0,
+            "skills": 8.5,
+            "location": 10,
+            "tenure": 7.0
+          },
+          "data_completeness": 0.7,
+          "api_enriched": true,
+          "api_source": "mock",
+          "outreach_message": "Hi [Name], I noticed your impressive experience with ML and LLMs. \n            Your background aligns perfectly with our ML Research role at Windsurf. \n            Would you be open to a brief conversation about this exciting opportunity?",
+          "personalization_score": 0.25
+        },
+        {
+          "rank": 2,
+          "name": "Bob Smith",
+          "linkedin_url": "https://linkedin.com/in/bob-smith",
+          "headline": "Senior ML Engineer at Microsoft | AI Research",
+          "location": "San Francisco, CA",
+          "company": "Microsoft",
+          "position": "Senior ML Engineer",
+          "fit_score": 8.22,
+          "score_breakdown": {
+            "education": 8.5,
+            "trajectory": 7.5,
+            "company": 8.0,
+            "skills": 8.5,
+            "location": 10,
+            "tenure": 7.0
+          },
+          "data_completeness": 0.7,
+          "api_enriched": true,
+          "api_source": "mock",
+          "outreach_message": "Hi [Name], I noticed your impressive experience with ML and LLMs. \n            Your background aligns perfectly with our ML Research role at Windsurf. \n            Would you be open to a brief conversation about this exciting opportunity?",
+          "personalization_score": 0.25
+        },
+        {
+          "rank": 3,
+          "name": "Carol Davis",
+          "linkedin_url": "https://linkedin.com/in/carol-davis",
+          "headline": "Senior ML Engineer at Apple | AI Research",
+          "location": "San Francisco, CA",
+          "company": "Apple",
+          "position": "Senior ML Engineer",
+          "fit_score": 8.22,
+          "score_breakdown": {
+            "education": 8.5,
+            "trajectory": 7.5,
+            "company": 8.0,
+            "skills": 8.5,
+            "location": 10,
+            "tenure": 7.0
+          },
+          "data_completeness": 0.7,
+          "api_enriched": true,
+          "api_source": "mock",
+          "outreach_message": "Hi [Name], I noticed your impressive experience with ML and LLMs. \n            Your background aligns perfectly with our ML Research role at Windsurf. \n            Would you be open to a brief conversation about this exciting opportunity?",
+          "personalization_score": 0.25
+        },
+        {
+          "rank": 4,
+          "name": "David Wilson",
+          "linkedin_url": "https://linkedin.com/in/david-wilson",
+          "headline": "Senior ML Engineer at Amazon | AI Research",
+          "location": "San Francisco, CA",
+          "company": "Amazon",
+          "position": "Senior ML Engineer",
+          "fit_score": 8.22,
+          "score_breakdown": {
+            "education": 8.5,
+            "trajectory": 7.5,
+            "company": 8.0,
+            "skills": 8.5,
+            "location": 10,
+            "tenure": 7.0
+          },
+          "data_completeness": 0.7,
+          "api_enriched": true,
+          "api_source": "mock",
+          "outreach_message": "Hi [Name], I noticed your impressive experience with ML and LLMs. \n            Your background aligns perfectly with our ML Research role at Windsurf. \n            Would you be open to a brief conversation about this exciting opportunity?",
+          "personalization_score": 0.25
+        },
+        {
+          "rank": 5,
+          "name": "Emma Brown",
+          "linkedin_url": "https://linkedin.com/in/emma-brown",
+          "headline": "Senior ML Engineer at Meta | AI Research",
+          "location": "San Francisco, CA",
+          "company": "Meta",
+          "position": "Senior ML Engineer",
+          "fit_score": 8.22,
+          "score_breakdown": {
+            "education": 8.5,
+            "trajectory": 7.5,
+            "company": 8.0,
+            "skills": 8.5,
+            "location": 10,
+            "tenure": 7.0
+          },
+          "data_completeness": 0.7,
+          "api_enriched": true,
+          "api_source": "mock",
+          "outreach_message": "Hi [Name], I noticed your impressive experience with ML and LLMs. \n            Your background aligns perfectly with our ML Research role at Windsurf. \n            Would you be open to a brief conversation about this exciting opportunity?",
+          "personalization_score": 0.25
+        }
+      ]
+    },
+    {
+      "job_id": "ml-research-windsurf-rapidapi",
+      "timestamp": "2025-06-29T15:37:22.109392",
+      "candidates_found": 5,
+      "processing_time": 17.509190320968628,
+      "llm_provider": "groq",
+      "api_status": {
+        "llm_api": true,
+        "rapidapi": true
+      },
+      "search_queries": [
+        "ml engineer",
+        "ml developer",
+        "llm engineer"
+      ],
+      "top_candidates": [
+        {
+          "rank": 1,
+          "name": "David Wilson",
+          "linkedin_url": "https://linkedin.com/in/david-wilson",
+          "headline": "Senior ML Engineer at Amazon | AI Research",
+          "location": "San Francisco, CA",
+          "company": "Amazon",
+          "position": "Senior ML Engineer",
+          "fit_score": 7.3,
+          "score_breakdown": {
+            "education": 7.5,
+            "trajectory": 8.5,
+            "company": 9.0,
+            "skills": 5.0,
+            "location": 8.0,
+            "tenure": 7.0
+          },
+          "data_completeness": 0.7,
+          "api_enriched": true,
+          "api_source": "mock",
+          "outreach_message": "Hi David, \n\nI came across your profile and was impressed by your experience as a Senior ML Engineer at Amazon, particularly your work in AI research. I'm reaching out to you about an exciting opportunity at Windsurf, a leading company in AI-powered developer productivity.\n\nAs someone with a strong background in training and iterating on large production neural networks, I think you'd be a great fit for our Software Engineer, ML Research role. You'll have the chance to train and fine-tune LLMs focused on developer productivity, design experiments for product impact, and convert ML discoveries into scalable product features.\n\nThis is a full-time onsite position in Mountain View, CA, with a competitive salary range of $140,000 - $300,000 + equity. If you're interested in exploring this opportunity further, I'd love to schedule a chat to discuss the role and company culture.\n\nBest regards,",
+          "personalization_score": 0.5
+        },
+        {
+          "rank": 2,
+          "name": "Alice Johnson",
+          "linkedin_url": "https://linkedin.com/in/alice-johnson",
+          "headline": "Senior ML Engineer at Google | AI Research",
+          "location": "San Francisco, CA",
+          "company": "Google",
+          "position": "Senior ML Engineer",
+          "fit_score": 6.85,
+          "score_breakdown": {
+            "education": 7.5,
+            "trajectory": 8.5,
+            "company": 9.0,
+            "skills": 6.0,
+            "location": 0,
+            "tenure": 8.0
+          },
+          "data_completeness": 0.7,
+          "api_enriched": true,
+          "api_source": "mock",
+          "outreach_message": "Hi Alice,\n\nI came across your profile and was impressed by your experience as a Senior ML Engineer at Google, where you're driving AI research forward. I also noticed that you're passionate about code generation and its applications.\n\nI wanted to reach out to you about a unique opportunity at Windsurf, a Forbes AI 50 company building the future of developer productivity through AI. Our team is seeking a talented ML Research Engineer to train and fine-tune LLMs focused on developer productivity, and I think your skills and background would be a great fit.\n\nIf you're interested in learning more about this role and how your expertise can shape the future of AI-powered developer tools, I'd love to schedule a call to discuss further.\n\nBest regards,\n[Your Name]",
+          "personalization_score": 0.5
+        },
+        {
+          "rank": 3,
+          "name": "Bob Smith",
+          "linkedin_url": "https://linkedin.com/in/bob-smith",
+          "headline": "Senior ML Engineer at Microsoft | AI Research",
+          "location": "San Francisco, CA",
+          "company": "Microsoft",
+          "position": "Senior ML Engineer",
+          "fit_score": 6.75,
+          "score_breakdown": {
+            "education": 7.5,
+            "trajectory": 5.5,
+            "company": 8.5,
+            "skills": 6.5,
+            "location": 7.5,
+            "tenure": 5.0
+          },
+          "data_completeness": 0.7,
+          "api_enriched": true,
+          "api_source": "mock",
+          "outreach_message": "Hi Bob,\n\nI came across your profile and was impressed by your experience as a Senior ML Engineer at Microsoft, particularly your work on AI research projects. I noticed that you have a strong background in training and iterating on large production neural networks, which aligns with the requirements of the Software Engineer, ML Research role at Windsurf.\n\nI'd like to invite you to explore this opportunity, where you'll be working with our team to build cutting-edge AI-powered developer productivity tools. As someone who's excited to build product-facing features from ML research, I think you'd be a great fit for our team. If you're interested, I'd love to schedule a chat to discuss the role and company culture further.\n\nBest regards,\n[Your Name]",
+          "personalization_score": 0.625
+        },
+        {
+          "rank": 4,
+          "name": "Emma Brown",
+          "linkedin_url": "https://linkedin.com/in/emma-brown",
+          "headline": "Senior ML Engineer at Meta | AI Research",
+          "location": "San Francisco, CA",
+          "company": "Meta",
+          "position": "Senior ML Engineer",
+          "fit_score": 6.3,
+          "score_breakdown": {
+            "education": 7.0,
+            "trajectory": 8.0,
+            "company": 5.0,
+            "skills": 7.0,
+            "location": 0,
+            "tenure": 8.0
+          },
+          "data_completeness": 0.7,
+          "api_enriched": true,
+          "api_source": "mock",
+          "outreach_message": "Hi Emma,\n\nI came across your profile on LinkedIn and was impressed by your experience as a Senior ML Engineer at Meta, particularly your work on AI research. I also noticed that you're based in San Francisco, which aligns with the full-time onsite requirement for the role at Windsurf.\n\nI wanted to reach out to you about an exciting opportunity at Windsurf, a Forbes AI 50 company that's revolutionizing developer productivity through AI. As a Software Engineer, ML Research, you'll have the chance to train and fine-tune LLMs, design experiments, and convert ML discoveries into scalable product features.\n\nIf you're interested in exploring this opportunity further, I'd love to schedule a recruiter chat to discuss the role and your qualifications in more detail. Please let me know if you're available for a call this week or next.\n\nBest regards,\n[Your Name]",
+          "personalization_score": 0.625
+        },
+        {
+          "rank": 5,
+          "name": "Carol Davis",
+          "linkedin_url": "https://linkedin.com/in/carol-davis",
+          "headline": "Senior ML Engineer at Apple | AI Research",
+          "location": "San Francisco, CA",
+          "company": "Apple",
+          "position": "Senior ML Engineer",
+          "fit_score": 5.5,
+          "score_breakdown": {
+            "education": 2.0,
+            "trajectory": 7.0,
+            "company": 8.0,
+            "skills": 6.0,
+            "location": 1.0,
+            "tenure": 9.0
+          },
+          "data_completeness": 0.7,
+          "api_enriched": true,
+          "api_source": "mock",
+          "outreach_message": "Hi Carol,\n\nI came across your profile and was impressed by your experience as a Senior ML Engineer at Apple, particularly your work in AI research. It's great to see professionals like yourself pushing the boundaries of what's possible with machine learning.\n\nI wanted to reach out to you about a unique opportunity at Windsurf, a Forbes AI 50 company that's revolutionizing developer productivity through AI. As a Software Engineer, ML Research, you'll have the chance to train and fine-tune LLMs focused on developer productivity, design experiments for product impact, and convert ML discoveries into scalable product features.\n\nIf you're excited about building product-facing features from ML research and are looking for a new challenge, I'd love to schedule a call to discuss the role further. Please let me know if you're interested and available to chat next week.\n\nBest, \n[Your Name]",
+          "personalization_score": 0.625
+        }
+      ]
+    },
+    {
+      "job_id": "ml-research-windsurf-rapidapi",
+      "timestamp": "2025-06-29T15:44:47.682561",
+      "candidates_found": 5,
+      "processing_time": 19.931203842163086,
+      "llm_provider": "groq",
+      "api_status": {
+        "llm_api": true,
+        "rapidapi": true
+      },
+      "search_queries": [
+        "ml engineer",
+        "ml developer",
+        "llm engineer"
+      ],
+      "top_candidates": [
+        {
+          "rank": 1,
+          "name": "Carol Davis",
+          "linkedin_url": "https://linkedin.com/in/carol-davis",
+          "headline": "Senior ML Engineer at Apple | AI Research",
+          "location": "San Francisco, CA",
+          "company": "Apple",
+          "position": "Senior ML Engineer",
+          "fit_score": 8.23,
+          "score_breakdown": {
+            "education": 8.8,
+            "trajectory": 9.2,
+            "company": 7.5,
+            "skills": 7.1,
+            "location": 8.5,
+            "tenure": 8.8
+          },
+          "data_completeness": 0.7,
+          "api_enriched": true,
+          "api_source": "mock",
+          "outreach_message": "Hi Carol, \n\nI came across your profile and was impressed by your experience as a Senior ML Engineer at Apple, where you've had the opportunity to drive AI research and development. Your background in training and iterating on large production neural networks caught my attention, as it aligns with our current needs at Windsurf.\n\nI wanted to reach out to you about a Software Engineer, ML Research role we're hiring for, where you'll have the chance to build product-facing features from ML research and contribute to our cutting-edge AI products. Our team is passionate about developer productivity, and I think your skills and experience would be a great fit.\n\nIf you're interested in learning more about this opportunity and our company, I'd love to schedule a call to discuss further. Please let me know if you're available for a short call next week.\n\nBest regards, \n[Your Name]",
+          "personalization_score": 0.375
+        },
+        {
+          "rank": 2,
+          "name": "David Wilson",
+          "linkedin_url": "https://linkedin.com/in/david-wilson",
+          "headline": "Senior ML Engineer at Amazon | AI Research",
+          "location": "San Francisco, CA",
+          "company": "Amazon",
+          "position": "Senior ML Engineer",
+          "fit_score": 7.2,
+          "score_breakdown": {
+            "education": 6.5,
+            "trajectory": 8.5,
+            "company": 5.0,
+            "skills": 7.0,
+            "location": 9.0,
+            "tenure": 8.0
+          },
+          "data_completeness": 0.7,
+          "api_enriched": true,
+          "api_source": "mock",
+          "outreach_message": "Hi David,\n\nI came across your profile and was impressed by your experience as a Senior ML Engineer at Amazon. Your background in training and iterating on large production neural networks caught my attention, especially in the context of the code generation space.\n\nI'd like to share an opportunity at Windsurf, a Forbes AI 50 company that's building the future of developer productivity through AI. As a Software Engineer, ML Research, you'll have the chance to train and fine-tune LLMs, design experiments, and turn ML discoveries into scalable product features. Your skills and expertise would be a great fit for our team.\n\nIf you're interested in learning more, I'd be happy to set up a time for a quick chat. Please let me know if you're available for a 15-minute call this week or next.\n\nBest regards,\n[Your Name]",
+          "personalization_score": 0.375
+        },
+        {
+          "rank": 3,
+          "name": "Bob Smith",
+          "linkedin_url": "https://linkedin.com/in/bob-smith",
+          "headline": "Senior ML Engineer at Microsoft | AI Research",
+          "location": "San Francisco, CA",
+          "company": "Microsoft",
+          "position": "Senior ML Engineer",
+          "fit_score": 5.75,
+          "score_breakdown": {
+            "education": 8.0,
+            "trajectory": 4.0,
+            "company": 6.0,
+            "skills": 5.0,
+            "location": 4.0,
+            "tenure": 8.0
+          },
+          "data_completeness": 0.7,
+          "api_enriched": true,
+          "api_source": "mock",
+          "outreach_message": "Hi Bob,\n\nI came across your profile and was impressed by your experience in AI research at Microsoft. Your work in developing and deploying large-scale production neural networks caught my attention, and I believe your skills would be a great fit for our team at Windsurf.\n\nWe're building the future of developer productivity through AI, and our team is looking for a Software Engineer, ML Research to join us in Mountain View, CA. Your background in training and iterating on large production neural networks aligns with our goals, and I'd love to discuss this opportunity further with you.\n\nWould you be open to a brief chat to explore how your expertise can contribute to our mission? If so, please let me know a time that works for you, and I'll be happy to schedule a call.\n\nBest regards, [Your Name]",
+          "personalization_score": 0.5
+        },
+        {
+          "rank": 4,
+          "name": "Emma Brown",
+          "linkedin_url": "https://linkedin.com/in/emma-brown",
+          "headline": "Senior ML Engineer at Meta | AI Research",
+          "location": "San Francisco, CA",
+          "company": "Meta",
+          "position": "Senior ML Engineer",
+          "fit_score": 5.67,
+          "score_breakdown": {
+            "education": 5.5,
+            "trajectory": 8.0,
+            "company": 3.5,
+            "skills": 6.0,
+            "location": 1.0,
+            "tenure": 8.5
+          },
+          "data_completeness": 0.7,
+          "api_enriched": true,
+          "api_source": "mock",
+          "outreach_message": "Hi Emma, \n\nI came across your profile and was impressed by your experience as a Senior ML Engineer at Meta, particularly your work on AI research initiatives. Your expertise in training and fine-tuning large production neural networks aligns closely with the requirements of our Software Engineer, ML Research role at Windsurf.\n\nOur team is building the future of developer productivity through AI, and we're excited to bring on a talented engineer like yourself to drive innovation in our product-facing features. If you're looking for a new challenge and want to be part of a cutting-edge company, I'd love to discuss this opportunity further with you.\n\nWould you be open to a 15-minute chat to explore this role in more detail? I'd be happy to answer any questions you may have.\n\nBest regards,\n[Your Name]",
+          "personalization_score": 0.5
+        },
+        {
+          "rank": 5,
+          "name": "Alice Johnson",
+          "linkedin_url": "https://linkedin.com/in/alice-johnson",
+          "headline": "Senior ML Engineer at Google | AI Research",
+          "location": "San Francisco, CA",
+          "company": "Google",
+          "position": "Senior ML Engineer",
+          "fit_score": 4.5,
+          "score_breakdown": {
+            "education": 5.0,
+            "trajectory": 2.0,
+            "company": 8.0,
+            "skills": 4.0,
+            "location": 3.0,
+            "tenure": 6.0
+          },
+          "data_completeness": 0.7,
+          "api_enriched": true,
+          "api_source": "mock",
+          "outreach_message": "Hi Alice,\n\nI came across your profile and was impressed by your experience as a Senior ML Engineer at Google. Your work in AI research and expertise in training and iterating on large production neural networks caught my attention.\n\nI'd like to bring to your notice an exciting opportunity at Windsurf, a Forbes AI 50 company building the future of developer productivity through AI. As a Software Engineer, ML Research, you'll be at the forefront of designing and prioritizing experiments for product impact, converting ML discoveries into scalable product features, and participating in the ML reading group.\n\nIf you're passionate about building product-facing features from ML research and are interested in working with a cutting-edge team, I'd love to set up a time to discuss this opportunity further. Please let me know if you're open to exploring this role.\n\nBest regards,\n[Your Name]",
+          "personalization_score": 0.375
+        }
+      ]
+    },
+    {
+      "job_id": "test-gemini-integration",
+      "timestamp": "2025-06-29T15:52:45.412662",
+      "candidates_found": 1,
+      "processing_time": 14.123408317565918,
+      "llm_provider": "gemini",
+      "api_status": {
+        "llm_api": true,
+        "rapidapi": true
+      },
+      "linkedin_urls_processed": [
+        "https://www.linkedin.com/in/williamhgates/"
+      ],
+      "top_candidates": [
+        {
+          "rank": 1,
+          "name": "",
+          "linkedin_url": "https://www.linkedin.com/in/williamhgates/",
+          "headline": "",
+          "location": "",
+          "company": "",
+          "position": "",
+          "fit_score": 5.0,
+          "score_breakdown": {
+            "education": 5.0,
+            "trajectory": 5.0,
+            "company": 5.0,
+            "skills": 5.0,
+            "location": 5.0,
+            "tenure": 5.0
+          },
+          "data_completeness": 0.0,
+          "api_source": "rapidapi_real",
+          "outreach_message": "Hi [Name],\n\nI came across your profile and was impressed by your experience at [Company] – particularly your work on [mention a specific project or skill from their profile that aligns with the job description, e.g.,  \"developing large-scale neural networks\" or \"implementing MLOps pipelines\"].\n\nWindsurf is hiring a Senior Machine Learning Engineer to build AI-powered developer tools.  We're focused on LLMs and neural networks, using Python, TensorFlow/PyTorch, and deploying with distributed training.  The role offers $140-300k + equity in the Bay Area.\n\nYour skills and experience strongly align with our requirements.  Would you be open to a brief chat to discuss this opportunity further?",
+          "personalization_score": 0.6
+        }
+      ]
+    },
+    {
+      "job_id": "test-groq-integration",
+      "timestamp": "2025-06-29T15:53:01.173506",
+      "candidates_found": 1,
+      "processing_time": 10.720133066177368,
+      "llm_provider": "groq",
+      "api_status": {
+        "llm_api": true,
+        "rapidapi": true
+      },
+      "linkedin_urls_processed": [
+        "https://www.linkedin.com/in/williamhgates/"
+      ],
+      "top_candidates": [
+        {
+          "rank": 1,
+          "name": "",
+          "linkedin_url": "https://www.linkedin.com/in/williamhgates/",
+          "headline": "",
+          "location": "",
+          "company": "",
+          "position": "",
+          "fit_score": 8.22,
+          "score_breakdown": {
+            "education": 8.5,
+            "trajectory": 7.5,
+            "company": 8.0,
+            "skills": 8.5,
+            "location": 10,
+            "tenure": 7.0
+          },
+          "data_completeness": 0.0,
+          "api_source": "rapidapi_real",
+          "outreach_message": "I don't see any information about the candidate. Please provide the following details:\n\n- Name\n- Role\n- Headline\n- Location\n- Skills\n\nOnce I have this information, I can write a personalized LinkedIn outreach message for the candidate.",
+          "personalization_score": 0.0
+        }
+      ]
+    },
+    {
+      "job_id": "ml-engineer-windsurf-clean",
+      "timestamp": "2025-06-29T15:54:13.826302",
+      "candidates_found": 3,
+      "processing_time": 36.89411163330078,
+      "llm_provider": "groq",
+      "api_status": {
+        "llm_api": true,
+        "rapidapi": true
+      },
+      "linkedin_urls_processed": [
+        "https://www.linkedin.com/in/williamhgates/",
+        "https://www.linkedin.com/in/jeffweiner08/",
+        "https://www.linkedin.com/in/reidhoffman/"
+      ],
+      "top_candidates": [
+        {
+          "rank": 1,
+          "name": "",
+          "linkedin_url": "https://www.linkedin.com/in/williamhgates/",
+          "headline": "",
+          "location": "",
+          "company": "",
+          "position": "",
+          "fit_score": 5.0,
+          "score_breakdown": {
+            "education": 5.0,
+            "trajectory": 5.0,
+            "company": 5.0,
+            "skills": 5.0,
+            "location": 5.0,
+            "tenure": 5.0
+          },
+          "data_completeness": 0.0,
+          "api_source": "rapidapi_real",
+          "outreach_message": "Subject: Exciting Opportunity at Windsurf as a Software Engineer in ML Research\n\nHi [Name],\n\nI came across your profile and noticed your experience as a [Role] at [Company], where you've leveraged your software engineering skills to drive innovation. Your passion for [specific skill or area of interest] aligns with Windsurf's mission to revolutionize developer productivity through AI.\n\nWe're currently looking for a talented Software Engineer in ML Research to join our team in Mountain View, CA. In this role, you'll have the opportunity to train and fine-tune our Large Language Models (LLMs) to create cutting-edge features for developers worldwide.\n\nIf you're excited about building product-facing features from ML research and are eager to contribute to a fast-growing company with a strong product-market fit, I'd love to hear from you. Please consider applying for this opportunity or scheduling a call to learn more about the position.\n\nBest regards,\n[Your Name]",
+          "personalization_score": 0.4
+        },
+        {
+          "rank": 2,
+          "name": "",
+          "linkedin_url": "https://www.linkedin.com/in/jeffweiner08/",
+          "headline": "",
+          "location": "",
+          "company": "",
+          "position": "",
+          "fit_score": 5.0,
+          "score_breakdown": {
+            "education": 5.0,
+            "trajectory": 5.0,
+            "company": 5.0,
+            "skills": 5.0,
+            "location": 5.0,
+            "tenure": 5.0
+          },
+          "data_completeness": 0.0,
+          "api_source": "rapidapi_real",
+          "outreach_message": "Subject: Exciting Opportunity at Windsurf as a Software Engineer in ML Research\n\nHi [Name],\n\nI came across your profile and noticed your experience as a [Role] at [Company], where you've leveraged your software engineering skills to drive innovation. Your passion for [specific skill or area of interest] aligns with Windsurf's mission to revolutionize developer productivity through AI.\n\nWe're currently looking for a talented Software Engineer in ML Research to join our team in Mountain View, CA. In this role, you'll have the opportunity to train and fine-tune our Large Language Models (LLMs) to create cutting-edge features for developers worldwide.\n\nIf you're excited about building product-facing features from ML research and are eager to contribute to a fast-growing company with a strong product-market fit, I'd love to hear from you. Please consider applying for this opportunity or scheduling a call to learn more about the position.\n\nBest regards,\n[Your Name]",
+          "personalization_score": 0.4
+        },
+        {
+          "rank": 3,
+          "name": "",
+          "linkedin_url": "https://www.linkedin.com/in/reidhoffman/",
+          "headline": "",
+          "location": "",
+          "company": "",
+          "position": "",
+          "fit_score": 5.0,
+          "score_breakdown": {
+            "education": 5.0,
+            "trajectory": 5.0,
+            "company": 5.0,
+            "skills": 5.0,
+            "location": 5.0,
+            "tenure": 5.0
+          },
+          "data_completeness": 0.0,
+          "api_source": "rapidapi_real",
+          "outreach_message": "Subject: Exciting Opportunity at Windsurf as a Software Engineer in ML Research\n\nHi [Name],\n\nI came across your profile and noticed your experience as a [Role] at [Company], where you've leveraged your software engineering skills to drive innovation. Your passion for [specific skill or area of interest] aligns with Windsurf's mission to revolutionize developer productivity through AI.\n\nWe're currently looking for a talented Software Engineer in ML Research to join our team in Mountain View, CA. In this role, you'll have the opportunity to train and fine-tune our Large Language Models (LLMs) to create cutting-edge features for developers worldwide.\n\nIf you're excited about building product-facing features from ML research and are eager to contribute to a fast-growing company with a strong product-market fit, I'd love to hear from you. Please consider applying for this opportunity or scheduling a call to learn more about the position.\n\nBest regards,\n[Your Name]",
+          "personalization_score": 0.4
+        }
+      ]
+    },
+    {
+      "job_id": "demo-submission",
+      "timestamp": "2025-06-29T16:12:58.250883",
+      "candidates_found": 3,
+      "processing_time": 28.329270124435425,
+      "llm_provider": "groq",
+      "api_status": {
+        "llm_api": true,
+        "rapidapi": true
+      },
+      "linkedin_urls_processed": [
+        "https://www.linkedin.com/in/williamhgates/",
+        "https://www.linkedin.com/in/jeffweiner08/",
+        "https://www.linkedin.com/in/reidhoffman/"
+      ],
+      "top_candidates": [
+        {
+          "rank": 1,
+          "name": "",
+          "linkedin_url": "https://www.linkedin.com/in/williamhgates/",
+          "headline": "",
+          "location": "",
+          "company": "",
+          "position": "",
+          "fit_score": 5.0,
+          "score_breakdown": {
+            "education": 5.0,
+            "trajectory": 5.0,
+            "company": 5.0,
+            "skills": 5.0,
+            "location": 5.0,
+            "tenure": 5.0
+          },
+          "data_completeness": 0.0,
+          "api_source": "rapidapi_real",
+          "outreach_message": "I need more information about the job description, candidate, and any guidelines for the message. Please provide the following details:\n\n1. Job description\n2. Candidate's name\n3. Candidate's role\n4. Candidate's headline\n5. Candidate's location\n6. Candidate's skills\n7. Any additional guidelines for the message\n\nOnce I have this information, I can create a personalized LinkedIn outreach message for the candidate.",
+          "personalization_score": 0.0
+        },
+        {
+          "rank": 2,
+          "name": "",
+          "linkedin_url": "https://www.linkedin.com/in/jeffweiner08/",
+          "headline": "",
+          "location": "",
+          "company": "",
+          "position": "",
+          "fit_score": 5.0,
+          "score_breakdown": {
+            "education": 5.0,
+            "trajectory": 5.0,
+            "company": 5.0,
+            "skills": 5.0,
+            "location": 5.0,
+            "tenure": 5.0
+          },
+          "data_completeness": 0.0,
+          "api_source": "rapidapi_real",
+          "outreach_message": "I need more information about the job description, candidate, and any guidelines for the message. Please provide the following details:\n\n1. Job description\n2. Candidate's name\n3. Candidate's role\n4. Candidate's headline\n5. Candidate's location\n6. Candidate's skills\n7. Any additional guidelines for the message\n\nOnce I have this information, I can create a personalized LinkedIn outreach message for the candidate.",
+          "personalization_score": 0.0
+        },
+        {
+          "rank": 3,
+          "name": "",
+          "linkedin_url": "https://www.linkedin.com/in/reidhoffman/",
+          "headline": "",
+          "location": "",
+          "company": "",
+          "position": "",
+          "fit_score": 5.0,
+          "score_breakdown": {
+            "education": 5.0,
+            "trajectory": 5.0,
+            "company": 5.0,
+            "skills": 5.0,
+            "location": 5.0,
+            "tenure": 5.0
+          },
+          "data_completeness": 0.0,
+          "api_source": "rapidapi_real",
+          "outreach_message": "I need more information about the job description, candidate, and any guidelines for the message. Please provide the following details:\n\n1. Job description\n2. Candidate's name\n3. Candidate's role\n4. Candidate's headline\n5. Candidate's location\n6. Candidate's skills\n7. Any additional guidelines for the message\n\nOnce I have this information, I can create a personalized LinkedIn outreach message for the candidate.",
+          "personalization_score": 0.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "llm_provider": "groq",
+  "gemini_api_key": "ENTER YOUR GEMINI_API_KEY_HERE",
+  "groq_api_key": "ENTER YOUR GROQ_API_KEY_HERE",
+  "rapidapi_key": "ENTER YOUR RAPIDAPI_KEY_HERE",
+  "rapidapi_linkedin_host": "ENTER_YOUR_RAPIDAPI_HOST_HERE",
+  "rate_limit_delay": 2.0,
+  "max_candidates_per_job": 15,
+  "max_search_queries": 3,
+  "storage_file": "candidates_data.json",
+  "logging_level": "INFO",
+  "search_sources": {
+    "linkedin": {
+      "enabled": true,
+      "weight": 0.4
+    },
+    "github": {
+      "enabled": true,
+      "weight": 0.2
+    },
+    "company_websites": {
+      "enabled": true,
+      "weight": 0.2
+    },
+    "academic_sites": {
+      "enabled": true,
+      "weight": 0.1
+    },
+    "general_web": {
+      "enabled": true,
+      "weight": 0.1
+    }
+  },
+  "apis": {
+    "gemini": {
+      "base_url": "https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent",
+      "model": "gemini-pro"
+    },
+    "groq": {
+      "base_url": "https://api.groq.com/openai/v1/chat/completions",
+      "model": "llama-3.1-70b-versatile"
+    },
+    "rapidapi_linkedin": {
+      "base_url": "https://fresh-linkedin-profile-data.p.rapidapi.com/get-linkedin-profile",
+      "headers": {
+        "X-RapidAPI-Host": "fresh-linkedin-profile-data.p.rapidapi.com",
+        "X-RapidAPI-Key": "YOUR_RAPIDAPI_KEY_HERE"
+      }
+    }
+  }
+}
